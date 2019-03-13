@@ -1,0 +1,15 @@
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\bin\Release\netcoreapp2.1\WhereToDo.deps.json
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\bin\Release\netcoreapp2.1\WhereToDo.runtimeconfig.json
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\bin\Release\netcoreapp2.1\WhereToDo.runtimeconfig.dev.json
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\bin\Release\netcoreapp2.1\WhereToDo.dll
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\bin\Release\netcoreapp2.1\WhereToDo.pdb
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\WhereToDo.csprojAssemblyReference.cache
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\WhereToDo.csproj.CoreCompileInputs.cache
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\WhereToDo.RazorAssemblyInfo.cache
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\WhereToDo.RazorAssemblyInfo.cs
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\WhereToDo.AssemblyInfoInputs.cache
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\WhereToDo.AssemblyInfo.cs
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\WhereToDo.RazorTargetAssemblyInfo.cache
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\WhereToDo.dll
+C:\Users\Michael Poust\source\repos\WhereToDo\WhereToDoAPI\WhereToDo\obj\Release\netcoreapp2.1\WhereToDo.pdb
